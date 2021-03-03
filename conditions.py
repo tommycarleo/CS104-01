@@ -11,7 +11,7 @@ while temp != 999:
         print ("Wear a jacket")
     elif temp > 32:
         print ("Wear a heavy coat")
-    elif temp < 32:
+    else:
         print ("Stay Inside")
     
       
